@@ -17,9 +17,12 @@ Um pouco da minha história e sobre meus contatos / A little bit of my history a
 </br>
 </br>
   <a href="https://www.linkedin.com/in/carlossilvallf/" alt="Linkedin" >
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlossilvallf/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlossilvallf/" /></a>
   
   <a href="mailto:carlossilvallf@gmail.com" alt="Gmail" >
-  <img src="https://img.shields.io/badge/-carlossilvallf@gmail.com-e34c41?style=flat-square&logo=gmail&logoColor=white&link=carlossilvallf@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-carlossilvallf@gmail.com-e34c41?style=flat&logo=gmail&logoColor=white&link=carlossilvallf@gmail.com" /></a>
+  
+  <a href="https://app.rocketseat.com.br/me/carlos-ssilva" alt="Rocketseat" >
+  <img src="https://img.shields.io/badge/-RocketSeat-836FFF?style=flat&link=https://app.rocketseat.com.br/me/carlos-ssilva" /></a>
   
 </p>
