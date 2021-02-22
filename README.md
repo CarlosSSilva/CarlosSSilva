@@ -4,11 +4,11 @@
 Um pouco da minha história e sobre meus contatos / A little bit of my history and my contacts<br/>
 </p>
 
-# I appreciate you come meet me <img src="https://github.com/CarlosSSilva/Hi_and_Welcome/blob/main/large.jpg" width="25" alt="Hi png" /></h2>
+# I Appreciate You Come Meet Me <img src="https://github.com/CarlosSSilva/Hi_and_Welcome/blob/main/large.jpg" width="60" alt="face_png" /></h2>
 
 <p align="center">
   I'm a university student, I'm 20 years old, and I'm studying computer engineering <br/>
-  I started in this world 3 years ago, due to my interest in hardware. <br/>
+  I started in this world 3 years ago, due to my interest in hardware <br/>
   but I soon understood that you need to learn more about the different areas of development and programming <br/>
   I have knowledge in C language, Html, a little about CSS, Node JS, and now studying Elixir <br/>
 </p>
