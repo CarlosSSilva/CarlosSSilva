@@ -1,6 +1,7 @@
+# HI AND WELCOME
+
 <p align="center">
-# Hi and Welcome
-Um pouco da minha história e sobre meus contatos./A little of my history and my contacts.
+Um pouco da minha história e sobre meus contatos / A little bit of my history and my contacts<br/>
 </p>
 
 # I appreciate you come meet me <img src="https://github.com/CarlosSSilva/Hi_and_Welcome/blob/main/large.jpg" width="25" alt="Hi png" /></h2>
