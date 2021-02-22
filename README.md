@@ -1,6 +1,9 @@
-# Hi_and_Welcome
-Um pouco da minha história e sobre meus contatos.
-# Hi, I appreciate you come meet me <img src="https://github.com/CarlosSSilva/Hi_and_Welcome/blob/main/large.jpg" width="25" alt="Hi png" /></h2>
+<p align="center">
+# Hi and Welcome
+Um pouco da minha história e sobre meus contatos./A little of my history and my contacts.
+</p>
+
+# I appreciate you come meet me <img src="https://github.com/CarlosSSilva/Hi_and_Welcome/blob/main/large.jpg" width="25" alt="Hi png" /></h2>
 
 <p align="center">
   I'm a university student, I'm 20 years old, and I'm studying computer engineering <br/>
