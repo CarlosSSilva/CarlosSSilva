@@ -3,7 +3,7 @@
 
 - Um pouco da minha história e sobre meus contatos / A little bit of my history and my contacts <br/>
 
-# I Appreciate You Come Meet Me <img src="https://github.com/CarlosSSilva/Hi_and_Welcome/blob/main/large.jpg" width="60" alt="face_png" /></h2>
+# I Appreciate You Come Meet Me
 
 <p align="center">
   I'm a university student, I'm 20 years old, and I'm studying computer engineering <br/>
