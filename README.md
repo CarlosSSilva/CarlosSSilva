@@ -16,7 +16,7 @@ Um pouco da minha história e sobre meus contatos / A little bit of my history a
 <h3 align="center"> Contacts </h3> 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlossilvallf/" alt="Linkedin" target="_blank" >
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlossilvallf/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/carlossilvallf/" /></a>
   
   <a href="mailto:carlossilvallf@gmail.com" alt="Gmail" >
   <img src="https://img.shields.io/badge/-carlossilvallf@gmail.com-e34c41?style=flat&logo=gmail&logoColor=white&link=carlossilvallf@gmail.com" /></a>
