@@ -7,11 +7,11 @@ Um pouco da minha história e sobre meus contatos / A little bit of my history a
 <h2 align="center" ><strong>I Appreciate You Come Meet Me </h2>
 
 <p align="center">
-  I'm a university student, I'm 20 years old, and I'm studying computer engineering, i started in this world 3 years ago, due to my interest in hardware
-  but I soon understood that you need to learn more about the different areas of development and programming.
+  I'm a university student, I'm 20 years old, and I'm studying computer engineering, i started in this world, due to my interest in hardware
+  but I soon understood that you need to learn more about the different areas of development and programming. Now i programing games for fan and to work.
 </p>
 
-<p align="center"> i have knowledge in C language, Html, a little about CSS, Node JS and now studying Elixir </p>
+<p align="center"> i have knowledge in C / C++, Html, a little about CSS and Elixir, JavaScipt, Python, Node JS and now using Construct 3 to develop </p>
 
 <h3 align="center"> Contacts </h3> 
 <p align="center">
