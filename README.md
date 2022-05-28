@@ -1,7 +1,7 @@
 <h1 align="center" ><strong>Hi, Welcome </h1> 
   
 <p align="center">
-Um pouco da minha história e sobre meus contatos / A little bit of my history and my contacts <br>
+Quem sou eu e sobre meus contatos / A little bit of my history and my contacts <br>
 </p>
 
 <h2 align="center" ><strong>I Appreciate You Come Meet Me </h2>
